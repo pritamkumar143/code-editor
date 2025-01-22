@@ -1,0 +1,22 @@
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        #editor {
+            resize: none;
+        }
+
+        #output {
+            background: white;
+        }
+
+        #consoleOutput {
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 10px;
+            border-radius: 5px;
+            height: 150px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+        }
